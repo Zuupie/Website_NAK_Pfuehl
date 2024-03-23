@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Datenschutz - NAK Pfühl</title>
+        <title>Datenschutz - Webseiten Name</title>
     </head>
     <body>
         <h1 class="adsimple-312398488">Datenschutzerklärung</h1>
@@ -499,6 +499,6 @@
         <p>Alle Texte sind urheberrechtlich geschützt.</p>
         <p style="margin-top:15px">Quelle: Erstellt mit dem <a href="https://www.adsimple.de/datenschutz-generator/" title="Datenschutz Generator von AdSimple für Deutschland">Datenschutz Generator</a> von AdSimple</p>
         <br>
-        <a href="index.html">Zurück zur Hauptseite</a>
+        <a href="URL zur Webseite">Zurück zur Hauptseite</a>
     </body>
 </html>
